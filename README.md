@@ -26,14 +26,16 @@ To preview and run the Code on your device:
 
 ![Screenshot 2024-12-20 224956](https://github.com/user-attachments/assets/c1e5ee2d-c1cc-40f4-a032-23c226184eef)
 
-![Screenshot 2024-12-20 225107](https://github.com/user-attachments/assets/ef3a76a3-8af7-4f3d-9e10-9b5dd02e9d70)
+![WhatsApp Image 2024-12-20 at 22 58 55_d0eda263](https://github.com/user-attachments/assets/38e78fa8-c83c-4a76-9427-9ddedae4b410)
+
+
 
 # Contact
 
-Author: Nikhil D.
+Author: Mahek C.
 
-GitHub: nikhildobariya98
+GitHub: MAHEKCHOTHANI02
 
-LinkedIn: Nikhil Dobariya
+LinkedIn: Mahek Chothani
 
-Email: dobariyanikhil98@gmail.com
+Email: chothanimahek1402@gmail,com
